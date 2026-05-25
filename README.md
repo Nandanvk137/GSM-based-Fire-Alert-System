@@ -113,3 +113,12 @@ https://youtu.be/
 ## 📝 Note
 
 This repository serves as documentation and implementation archive of an academic hardware project.
+
+## 👤 Author
+
+**Nandan Kuchabal**
+- GitHub: [@Nandanvk137](https://github.com/Nandanvk137)
+- LinkedIn: [nandan-kuchabal](https://linkedin.com/in/nandan-kuchabal-404964361)
+
+---
+
