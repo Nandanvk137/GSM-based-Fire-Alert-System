@@ -67,6 +67,22 @@ This enables quick emergency response and real-time alert communication.
 
 ---
 
+## 🏗️ System Architecture
+
+![System Architecture](images/system-architecture.png)
+
+---
+
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](circuit-diagram/gsm-fire-alert-circuit.png)
+
+> Diagram recreated for documentation purposes.
+
+---
+
+---
+
 ## 📚 Learning Outcomes
 
 - Embedded systems fundamentals
