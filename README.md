@@ -69,13 +69,13 @@ This enables quick emergency response and real-time alert communication.
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/system-architecture.png)
+![System Architecture](images/system-architecture.png.png)
 
 ---
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit-diagram/gsm-fire-alert-circuit.png)
+![Circuit Diagram](circuit-diagram/gsm-fire-alert-circuit.png.png)
 
 > Diagram recreated for documentation purposes.
 
